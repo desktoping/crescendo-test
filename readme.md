@@ -3,6 +3,7 @@
 ## Tasks
 1. Convert PSD to working webpage, including the modal (desktop only)
 2. Integrate Recipe API on the page.
+
 Bonus: Do the mobile design
  
 ## Goals
