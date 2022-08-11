@@ -1,5 +1,10 @@
 # Crescendo Collective - Frontend Skill Test
 
+## Tasks
+1. Convert PSD to working webpage, including the modal (desktop only)
+2. Integrate Recipe API on the page.
+Bonus: Do the mobile design
+ 
 ## Goals
 
 For this project we've provided a PSD design and recipe API with two endpoints. With these you'll need to complete the following objectives.
